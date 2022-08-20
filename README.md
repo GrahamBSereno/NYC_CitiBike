@@ -61,7 +61,7 @@ Trips By Weekday
 
 Trips By Gender
   
-![Trips by Gender](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyGender.png
+![Trips by Gender](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyGender.png)
 
 <Summary> Trips By Gender By Weekday </Summary>
   
