@@ -24,57 +24,47 @@ Other key tasks are to:
 
 ## Results and Storyboard Visuals
 
-<Summary> Top Starting Locations </Summary>
+Top Starting Locations
   
 ![Top Starting Locations](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TopStartingLocations.png)
-<br>
 
-</details>
 
-<details>
-<Summary> Top Return Locations </Summary>
+Top Return Locations
   
 ![Top Ending Locations](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TopEndingLocations.png)
-<br>
 
-</details>
 
-<details>
-<Summary> Checkout Times </Summary>
+
+
+
+Checkout Times
   
 ![Checkout Times](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/CheckoutTime.png)
-<br>
 
-</details>
 
-<details>
-<Summary> Checkout Times By Gender </Summary>
+
+
+
+Checkout Times By Gender
   
 ![Checkout Times by Gender](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/CheckoutTimeByGender.png)
 <br>
  
-</details>
 
-<details>
-<Summary> Trips By Weekday </Summary>
+
+
+Trips By Weekday
   
 ![Trips by Weekday by Hour](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyWeekdaybyHour.png)
-<br>
 
-</details>
 
-<details>
-<Summary> Trips By Gender </Summary>
+
+Trips By Gender
   
 ![Trips by Gender](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyGender.png
-<br>
- 
-</details>
 
-<details>
 <Summary> Trips By Gender By Weekday </Summary>
   
 ![Trips by Gender by Weekday](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyGender.png)
-<br>
 
-</details>
+
