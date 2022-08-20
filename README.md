@@ -1,16 +1,5 @@
 # NYC_CitiBike
 
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (5 pt)
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
 ## Overview of the statistical analysis:
 The goal of this analysis is to use data and tactful visualization to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 I am creating a NYC CitiBike storyboard through the use of Pandas for data transformation and Tableau for visualization.
@@ -34,8 +23,6 @@ Description: This shows the most popular locations to start a ride. As you can s
 Description: This shows the most popular ending locations to finish a ride. As you can see, lower Manhatten to Times Square and Central Park area are by fare the most popular.
 
 ![Top Ending Locations](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TopEndingLocations.png)
-
-
 
 
 
