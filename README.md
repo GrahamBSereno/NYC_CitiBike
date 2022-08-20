@@ -77,3 +77,9 @@ Description: This is a heatmap showing the distribution of ride counts by genera
 ![Trips by Gender by Weekday](https://github.com/GrahamBSereno/NYC_CitiBike/blob/main/images/TripsbyGenderbyWeekday.png)
 
 
+## Summary of Results
+Results are provided in line with each visual description; but the general theme is that males tend to take more CitiBike rides. The Lower Manhatten, Times Square, and Central Park areas are trafficked the heaviest. Subscribers have much higher ride counts.
+
+## Additional Visualization Suggestions
+- Ride Count by Age in a heatmap
+- Ride Count by Nationality in a heatmap
